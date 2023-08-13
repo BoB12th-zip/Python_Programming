@@ -1,2 +1,2 @@
-# Python_Programming
-Python Programming Assignment
+# python-programming
+Arkanoid game
